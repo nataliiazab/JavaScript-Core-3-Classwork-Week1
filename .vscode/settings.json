@@ -1,9 +1,6 @@
 {
   "typescript.validate.enable": true,
   "javascript.validate.enable": false,
-  "cSpell.words": [
-    "eqeqeq",
-    "Ionicons"
-  ],
-  "liveServer.settings.port": 5501
+  "cSpell.words": ["eqeqeq", "Ionicons"],
+  "liveServer.settings.port": 5502
 }
